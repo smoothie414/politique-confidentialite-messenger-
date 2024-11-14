@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité</title>
+</head>
+<body>
+    <h1>Politique de Confidentialité</h1>
+
+    <h2>1. Introduction</h2>
+    <p>Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons les données des utilisateurs qui interagissent avec notre bot Messenger.</p>
+
+    <h2>2. Données Collectées</h2>
+    <p>Nous collectons les informations suivantes lorsque vous interagissez avec notre bot :</p>
+    <ul>
+        <li>Contenu des messages envoyés par les utilisateurs</li>
+        <li>Nom de l'utilisateur et identifiant Facebook</li>
+    </ul>
+
+    <h2>3. Utilisation des Données</h2>
+    <p>Les données collectées sont utilisées uniquement pour les finalités suivantes :</p>
+    <ul>
+        <li>Répondre aux messages des utilisateurs et fournir une assistance</li>
+        <li>Améliorer l'expérience utilisateur de notre bot</li>
+    </ul>
+
+    <h2>4. Partage des Données</h2>
+    <p>Nous ne partageons pas les informations des utilisateurs avec des tiers, sauf dans les cas suivants :</p>
+    <ul>
+        <li>Utilisation de l'API OpenAI pour générer des réponses aux messages des utilisateurs</li>
+        <li>Respect des obligations légales ou protection de nos droits</li>
+    </ul>
+
+    <h2>5. Sécurité des Données</h2>
+    <p>Nous prenons des mesures pour protéger les informations des utilisateurs contre tout accès non autorisé, utilisation abusive, divulgation ou destruction.</p>
+
+    <h2>6. Droits des Utilisateurs</h2>
+    <p>Les utilisateurs ont le droit de demander l'accès, la correction ou la suppression de leurs informations personnelles. Pour toute demande, veuillez nous contacter à l'adresse indiquée ci-dessous.</p>
+
+    <h2>7. Modifications de cette Politique</h2>
+    <p>Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Nous informerons les utilisateurs de tout changement important via Messenger ou par un autre moyen de communication approprié.</p>
+
+    <h2>8. Contact</h2>
+    <p>Pour toute question ou préoccupation concernant cette politique de confidentialité, veuillez nous contacter à : <a href="mailto:contact@haloweb.ch"</a></p>
+</body>
+</html>
